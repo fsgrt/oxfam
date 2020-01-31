@@ -17,4 +17,4 @@
 - [Fiche AG locale](https://1drv.ms/w/s!AqSLK_Z2Mc8DgwQyyDp9sh_9rfdQ)
 - [Fiche vote électronique](https://1drv.ms/w/s!AmpN2klDYs7RgQKMSHzmPY5uvq9_)
 - [Fiche webinaires](https://1drv.ms/w/s!AmpN2klDYs7RgQaLY4zKefA9qEoB)
-- Retroplaning AG** : _à venir_
+- Retroplaning AG : _à venir_
