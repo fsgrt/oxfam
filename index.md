@@ -7,8 +7,8 @@
 
 ## A reprendre
 
-- [Charte](https://www.oxfamfrance.org/wp-content/uploads/2018/11/Oxfam-france-bulletin-adhesion-2019.pdf) (partie adhésion à modifier)
-- [Bulletin adhésion](https://www.oxfamfrance.org/wp-content/uploads/2020/01/Bulletin-devenir-membre-Oxfam-2020.pdf) (pas possible de prendre cotisation sur le PA)
+- [Charte](https://www.oxfamfrance.org/wp-content/uploads/2018/11/Oxfam-france-bulletin-adhesion-2019.pdf) 
+- [Bulletin adhésion](https://www.oxfamfrance.org/wp-content/uploads/2020/01/Bulletin-devenir-membre-Oxfam-2020.pdf) 
 
 ## Documents de travail
 
