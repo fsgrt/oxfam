@@ -17,4 +17,4 @@
 - [Fiche AG locale](https://1drv.ms/w/s!AqSLK_Z2Mc8DgwQyyDp9sh_9rfdQ)
 - [Fiche vote électronique](https://1drv.ms/w/s!AmpN2klDYs7RgQKMSHzmPY5uvq9_)
 - [Fiche webinaires](https://1drv.ms/w/s!AmpN2klDYs7RgQaLY4zKefA9qEoB)
-- Retroplaning AG : [chronologie](aeontimeline.html) / [liste](liste.html)
+- Retroplaning AG : [chronologie (lecture seule)](aeontimeline.html) / [liste (lecture seule)](liste.html) / [tableau collaboratif à commenter](https://docs.google.com/spreadsheets/d/1TamJXXHbNIBdJ2RwuIBINr1tt2YqorwO5GMAHrT_B54/edit?usp=sharing)
